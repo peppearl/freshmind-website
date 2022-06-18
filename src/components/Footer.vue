@@ -10,9 +10,8 @@
           Retrouvez notre application FreshMind sur l'App Store et Google Play
         </p>
         <div class="max-w-2xl text-center flex items-center justify-center w-full">
-          <a href="#" class="flex">
             <svg id="livetype" xmlns="http://www.w3.org/2000/svg" width="126.50751" height="40"
-                 viewBox="0 0 126.50751 40" class="m-4">
+                 viewBox="0 0 126.50751 40" class="m-4 flex">
               <title>Download_on_the_App_Store_Badge_FR_RGB_blk_100517</title>
               <g>
                 <g>
@@ -112,10 +111,7 @@
                 </g>
               </g>
             </svg>
-          </a>
-          <a href="#" class="flex">
-            <img src="../assets/img/google-play-badge.png" alt="Télécharger sur Google Play" width="150px" class="m-4">
-          </a>
+            <img src="../assets/img/google-play-badge.png" alt="Télécharger sur Google Play" width="150px" class="m-4 flex">
         </div>
       </div>
     </div>

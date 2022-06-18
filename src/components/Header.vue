@@ -10,13 +10,8 @@
             vous</h2>
         </div>
         <div class="max-w-2xl mb-8 text-center flex items-center justify-center w-full">
-          <a
-              href="#"
-              target="_blank"
-              rel="noopener"
-              class="flex">
             <svg id="livetype" xmlns="http://www.w3.org/2000/svg" width="126.50751" height="40"
-                 viewBox="0 0 126.50751 40" class="m-10">
+                 viewBox="0 0 126.50751 40" class="m-10 flex">
               <title>Download_on_the_App_Store_Badge_FR_RGB_blk_100517</title>
               <g>
                 <g>
@@ -116,14 +111,7 @@
                 </g>
               </g>
             </svg>
-          </a>
-          <a
-              href="#"
-              target="_blank"
-              rel="noopener"
-              class="flex">
-            <img src="../assets/img/google-play-badge.png" alt="Télécharger sur Google Play" width="150px" class="m-7">
-          </a>
+            <img src="../assets/img/google-play-badge.png" alt="Télécharger sur Google Play" width="150px" class="m-7 flex">
         </div>
       </div>
       <div class="flex items-center justify-center w-full">
