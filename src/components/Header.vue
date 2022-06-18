@@ -11,7 +11,7 @@
         </div>
         <div class="max-w-2xl mb-8 text-center flex items-center justify-center w-full">
           <a
-              href="https://github.com/web3templates/nextly-template/"
+              href="#"
               target="_blank"
               rel="noopener"
               class="flex">
@@ -118,7 +118,7 @@
             </svg>
           </a>
           <a
-              href="https://github.com/web3templates/nextly-template/"
+              href="#"
               target="_blank"
               rel="noopener"
               class="flex">
@@ -126,7 +126,7 @@
           </a>
         </div>
       </div>
-      <div class="flex items-center justify-center w-full lg:w-1/2">
+      <div class="flex items-center justify-center w-full">
         <p>Mockups</p>
       </div>
     </div>
