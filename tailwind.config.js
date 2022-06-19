@@ -9,10 +9,19 @@ module.exports = {
       colors: {
         'blue': '#73BBB3',
         'grey': '#F5F5F5',
-        'black': '#464444'
+        'black': '#464444',
+        'red': '#BA7C7B',
       },
       backgroundImage: {
         'body-texture': "url('/src/assets/img/paper-texture.png')",
+      },
+      spacing: {
+        '23': '23px',
+        '22': '22px',
+        '32': '32px'
+      },
+      boxShadow: {
+        'l': '4px -4px 12px rgba(0, 0, 0, 0.25)',
       },
     },
   },
