@@ -1,17 +1,17 @@
 <template>
   <section class="flex flex-wrap bg-blue">
-    <div class="flex items-center w-full mx-40 my-24">
+    <div class="flex items-center w-full mx-40 mt-24">
       <div class="w-full">
-        <div class="max-w-2xl mb-8 text-center flex items-center justify-center w-full flex-col">
+        <div class="text-center flex items-center justify-center w-full flex-col">
           <img src="../assets/img/logo.png" alt="Logo FreshMind" width="100px" class="mb-8">
           <h1 class="text-7xl font-black uppercase text-white">
             FreshMind</h1>
           <h2 class="pt-5 text-2xl font-normal text-white">L’application qui prend soin de
             vous</h2>
         </div>
-        <div class="max-w-2xl mb-8 text-center flex items-center justify-center w-full">
+        <div class="text-center flex items-center justify-center w-full">
             <svg id="livetype" xmlns="http://www.w3.org/2000/svg" width="126.50751" height="40"
-                 viewBox="0 0 126.50751 40" class="m-10 flex">
+                 viewBox="0 0 126.50751 40" class="mx-10 mt-10 flex">
               <title>Download_on_the_App_Store_Badge_FR_RGB_blk_100517</title>
               <g>
                 <g>
@@ -111,14 +111,14 @@
                 </g>
               </g>
             </svg>
-            <img src="../assets/img/google-play-badge.png" alt="Télécharger sur Google Play" width="150px" class="m-7 flex">
+            <img src="../assets/img/google-play-badge.png" alt="Télécharger sur Google Play" width="150px" class="mx-7 mt-7 flex">
         </div>
-      </div>
-      <div class="flex items-center justify-center w-full">
-        <p>Mockups</p>
       </div>
     </div>
   </section>
+  <div>
+    <img src="../assets/img/header.png">
+  </div>
 </template>
 
 <script>

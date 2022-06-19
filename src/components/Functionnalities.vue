@@ -7,7 +7,7 @@
       <div class="w-full">
         <div class="max-w-2xl mb-8 text-center flex items-center justify-center w-full flex-col">
           <h2 class="pt-5 text-2xl font-bold mb-4 uppercase">Découvrez nos fonctionnalités</h2>
-          <hr class="w-8/12 h-0.5" style="background: linear-gradient(90deg, #73BBB3 0%, #BA7C7B 100%);"/>
+          <hr class="w-71% h-0.5" style="background: linear-gradient(90deg, #73BBB3 0%, #BA7C7B 100%);"/>
         </div>
         <div class="max-w-2xl mb-8 flex items-center justify-center w-full flex-col ml-6">
           <div class="flex w-full mb-8">
