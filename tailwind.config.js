@@ -11,6 +11,9 @@ module.exports = {
         'grey': '#F5F5F5',
         'black': '#464444'
       },
+      backgroundImage: {
+        'body-texture': "url('/src/assets/img/paper-texture.png')",
+      },
     },
   },
   plugins: [],
