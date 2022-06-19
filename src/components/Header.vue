@@ -1,15 +1,15 @@
 <template>
   <section class="flex flex-wrap bg-blue">
-    <div class="flex items-center w-full mx-40 my-24">
+    <div class="flex items-center w-full mx-40 mt-24">
       <div class="w-full">
-        <div class="max-w-2xl mb-8 text-center flex items-center justify-center w-full flex-col">
+        <div class="mb-8 text-center flex items-center justify-center w-full flex-col">
           <img src="../assets/img/logo.png" alt="Logo FreshMind" width="100px" class="mb-8">
           <h1 class="text-7xl font-black uppercase text-white">
             FreshMind</h1>
           <h2 class="pt-5 text-2xl font-normal text-white">L’application qui prend soin de
             vous</h2>
         </div>
-        <div class="max-w-2xl mb-8 text-center flex items-center justify-center w-full">
+        <div class="mb-8 text-center flex items-center justify-center w-full">
           <a
               href="https://github.com/web3templates/nextly-template/"
               target="_blank"
@@ -126,11 +126,13 @@
           </a>
         </div>
       </div>
-      <div class="flex items-center justify-center w-full lg:w-1/2">
-        <p>Mockups</p>
-      </div>
     </div>
   </section>
+  <!--
+  <div>
+    <img src="../assets/img/header.png" alt="Image fond header">
+  </div>
+  -->
 </template>
 
 <script>
