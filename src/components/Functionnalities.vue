@@ -55,10 +55,13 @@
         </div>
       </div>
     </div>
-    <div class="text-center mx-72 mb-24 font-normal leading-10">
+    <div class="text-center mx-72 mb-24 font-normal leading-10 w-full">
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at eros pellentesque neque ornare magna. Gravida
-        massa tellus sagittis amet dui tellus.
+        Afin de voir un aperçu de notre application en avant première, <a
+          class="text-blue"
+          target="_blank"
+          href="https://www.figma.com/proto/QN3u6uB2BoMGFwkF4lglPH/Untitled?page-id=0%3A1&node-id=1%3A3&viewport=168%2C480%2C0.73&scaling=scale-down&starting-point-node-id=1%3A3">
+        n'hésitez pas à cliquer ici !</a>
       </p>
     </div>
   </section>
