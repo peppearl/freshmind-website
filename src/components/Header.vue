@@ -111,7 +111,7 @@
                 </g>
               </g>
             </svg>
-            <img src="../assets/img/google-play-badge.png" alt="Télécharger sur Google Play" width="150px" class="mx-7 mt-7 flex">
+            <img src="../assets/img/google-play-badge.png" alt="Télécharger sur Google Play" width="150px" class="mx-7 mt-9 flex">
         </div>
       </div>
     </div>

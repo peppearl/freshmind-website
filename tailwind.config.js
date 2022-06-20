@@ -22,7 +22,7 @@ module.exports = {
         '71%': '71%'
       },
       boxShadow: {
-        'l': '4px -4px 12px rgba(0, 0, 0, 0.25)',
+        'l': '2px -4px 12px rgba(0, 0, 0, 0.2)',
       },
     },
   },
