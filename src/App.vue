@@ -2,6 +2,7 @@
   <Header/>
   <Functionnalities/>
   <Goals/>
+  <Newsletter/>
   <Footer/>
 </template>
 
@@ -10,6 +11,7 @@ import Header from './components/Header.vue'
 import Functionnalities from "./components/Functionnalities";
 import Footer from "@/components/Footer";
 import Goals from "@/components/Goals";
+import Newsletter from "@/components/Newsletter";
 
 export default {
   name: 'App',
@@ -17,7 +19,8 @@ export default {
     Header,
     Functionnalities,
     Footer,
-    Goals
+    Goals,
+    Newsletter
   }
 }
 </script>
